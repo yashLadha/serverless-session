@@ -1,12 +1,12 @@
 # Serverless Session
 
-Steps for installing and serverless and setting up basic serverless function
+Steps for installing serverless and setting up basic serverless function
 
 * Installing serverless globally
 ```bash
 npm i -g serverless
 ```
-* Creating folder for function, else all the template will be in `cwd`
+* Creating folder for function
 ```bash
 mkdir serverless-service
 cd serverless-service
