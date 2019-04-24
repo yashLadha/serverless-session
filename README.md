@@ -1,3 +1,3 @@
-# Serverless Session - Basic Setup
+# Serverless Session -  Logic 
 
-This is a basic aws-python3 lambda function setup by serverless. 
+In this part we will create a basic lambda function that uglifies text passed in request body
